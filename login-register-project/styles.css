@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(118, 126, 131);
+    margin: 0em;
+    padding: 0em;
+}
+
+.cont-1 {
+    margin-top: 20em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    background-color: lightgray;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 20px;
+}
+
+.cont-1 .cont-grid-1 {
+    background-color: rgb(143, 137, 125);
+}
