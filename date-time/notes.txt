@@ -1,0 +1,18 @@
+JavaScript
+
+DOM
+Document Object Model
+DOM is used to manipulate content, style and structure of a project.
+
+querySelecter()
+This method is used to select the first element that matches the specified CSS selector within the document. For example, if we specify a div tag, the selector will select the first div tag within the document.
+
+getElementById()
+This method is used to select a specified id within the document.
+
+getElementByClassName()
+This method is used to select a class name within a document.
+
+getElementsByTagName()
+This method is used to select a tag name within the document.
+document object model
